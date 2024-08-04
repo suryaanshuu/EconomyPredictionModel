@@ -1,8 +1,8 @@
 # Economy Prediction Model
 
-This repository contains the code for the Machine Learning / Deep Learning-based Economy Inflation Prediction Model. The main parameter considered for measuring inflation is CPI (Consumer Price Index).
-For reference, if CPI '24 = x and CPI '25 = y, then Inflation Rate from 2024-2025 = [(x-y)/x]*100.
-The project is developed using algorithms like Linear Regression and LSTM (Long Short-Term Memory) during the Research Internship.
+* This repository contains the code for the Machine Learning / Deep Learning-based Economy Inflation Prediction Model. The main parameter considered for measuring inflation is CPI (Consumer Price Index).
+* For reference, if CPI '24 = x and CPI '25 = y, then Inflation Rate from 2024-2025 = [(x-y)/x]*100.
+* The project is developed using algorithms like Linear Regression and LSTM (Long Short-Term Memory) during the Research Internship.
 
 ## Getting Started
 
