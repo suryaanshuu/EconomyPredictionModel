@@ -1,4 +1,4 @@
-# Economy Prediction: Forecasting Inflation (Consumer Price Index) using LSTM
+# Economy Prediction: Forecasting Inflation (Consumer Price Index) using LSTM (Long Short-Term Memory)
 
 ## Crux of the Research
 * This repository contains the code for the Machine Learning & Deep Learning-based Economy Inflation Prediction Model. The main parameter considered for measuring inflation is CPI (Consumer Price Index).
