@@ -14,6 +14,3 @@
 * PPI:  https://fred.stlouisfed.org/series/PPIACO
 * NEER:  https://fred.stlouisfed.org/series/NBUSBIS
 * US Unemployment Data:  https://www.kaggle.com/datasets/axeltorbenson/unemployment-data-19482021
-
-## References
-
