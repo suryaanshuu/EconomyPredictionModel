@@ -8,5 +8,12 @@
 * For more information on the model, refer to the Research Paper.
 
 ## Data Sources
+* CPI:  https://www.bls.gov/cpi/data.htm
+* BIE:  https://www.atlantafed.org/research/inflationproject/bie.aspx
+* Oil Prices:  https://tradingeconomics.com/commodity/crude-oil
+* PPI:  https://fred.stlouisfed.org/series/PPIACO
+* NEER:  https://fred.stlouisfed.org/series/NBUSBIS
+* US Unemployment Data:  https://www.kaggle.com/datasets/axeltorbenson/unemployment-data-19482021
+
 ## References
 
